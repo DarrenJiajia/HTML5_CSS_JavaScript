@@ -1,0 +1,44 @@
+fieldset{
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    padding: 0 .625em;
+}
+
+.fields{
+    background-color: #fff;
+    border: 1px solid #eaeaea;
+    margin: .75em;
+    padding: .75em;
+}
+
+.fields .row{
+    margin: 0.5em 0;
+}
+
+label{
+    cursor:pointer;
+    display: inline-block;
+    padding: 3px 6px;
+    text-align: right;
+    width: 150px;
+    wertical-align: top;
+}
+
+input select button{
+    font-size: inherit;
+}
+
+.field-small{
+    width: 150px;
+}
+
+.field-large{
+    width: 250px;
+}
+
+.radios{
+
+}
